@@ -13,11 +13,11 @@ A React-based authentication client built with Vite. SecureAuth provides a compl
 - Display the signed-in user's name, email, role, and ID on the dashboard
 - Clear local session state safely on logout or failed token refresh
 
-- ## 🔗 Frontend
+## 🔗 Backend
 
-This project has a React frontend.
+This project uses a Spring Boot backend.
 
-👉 [View Frontend Repository](https://github.com/sanojkushwaha/SecureAuth-Frontend)
+👉 [View Backend Repository](https://github.com/sanojkushwaha/SecureAuth-Backend)
 
 
 ## Tech stack
