@@ -2,6 +2,10 @@
 
 A React-based authentication client built with Vite. SecureAuth provides a complete browser experience for account registration, email verification, sign-in, password recovery, and protected user access.
 
+## 🚀 Live Demo
+
+🔗 **[View SecureAuth Live Demo](https://secure-auth-frontend-ten.vercel.app/login)**
+
 ## Highlights
 
 - Register accounts with client-side password confirmation
