@@ -4,7 +4,7 @@ A React-based authentication client built with Vite. SecureAuth provides a compl
 
 ## 🚀 Live Demo
 
-🔗 **[View SecureAuth Live Demo](https://secure-auth-frontend-ten.vercel.app/login)**
+🔗 **[View SecureAuth Live Demo](https://secure-auth-frontend-ten.vercel.app)**
 
 ## Highlights
 
